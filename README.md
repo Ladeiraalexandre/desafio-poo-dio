@@ -16,4 +16,4 @@ Classe main:
 
 1. **Constantes para Strings**: Evitar strings hard-coded criando constantes para os títulos e descrições dos cursos e mentorias.
 2. **Métodos Auxiliares**: foram criados métodos auxiliares para a criação de cursos e mentorias, tornando o `main` mais limpo e fácil de ler.
-3. **Método para Exibir Progresso**: Criamos um método auxiliar para exibir o progresso dos desenvolvedores, evitando duplicação de código.
+3. **Método para Exibir Progresso**: foi criado um método auxiliar para exibir o progresso dos desenvolvedores, evitando duplicação de código.
